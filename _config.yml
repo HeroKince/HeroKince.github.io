@@ -16,7 +16,11 @@ timezone: Asia/Shanghai
 
 title: HeroKince # the main title
 
-tagline: 安卓独立开发者 \n 应用出海布道师 \n 凤凰星河创始人 # it will display as the sub-title
+tagline: 
+
+安卓独立开发者
+应用出海布道师
+凤凰星河创始人 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   HeroKince Website.
