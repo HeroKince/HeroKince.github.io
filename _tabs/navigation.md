@@ -1,6 +1,6 @@
 ---
-# the default layout is 'page'
-icon: fal fa-compass
+title: 导航
+icon: fas fa-compass
 order: 4
 ---
 
