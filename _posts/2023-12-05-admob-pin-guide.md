@@ -1,6 +1,7 @@
 
 ---
-title: "Admob PIN码接收指南"
+title: Admob PIN码接收指南
+author: HeroKince
 date: 2023-12-09 20:42:01 +0800
 categories: [Admob]
 tags: [admob]     # TAG names should always be lowercase
