@@ -1,6 +1,6 @@
 ---
 title: 联系
-icon: fas fa-comment-alt-dots
+icon: fa fa-envelope-open
 order: 6
 ---
 
