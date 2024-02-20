@@ -3,7 +3,7 @@ title: Android 后台启动Activity适配
 author: HeroKince
 date: 2023-08-30 22:55:06 +0800
 categories: [Android]
-tags: [android,activity]
+tags: [Android,Activity]
 ---
 
 在Android 9及以下版本，后台启动Activity相对自由，但是如果在Activity上下文之外启动Activity会有限制。

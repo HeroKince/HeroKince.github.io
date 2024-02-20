@@ -3,7 +3,7 @@ title: Admob无效流量问题
 author: HeroKince
 date: 2023-12-12 12:04:56 +0800
 categories: [Admob]
-tags: [admob,广告]
+tags: [Admob,广告]
 ---
 
 ### 引起无效流量的原因
