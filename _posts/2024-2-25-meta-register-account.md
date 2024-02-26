@@ -1,7 +1,7 @@
 ---
 title: Meta账号注册的五大常见问题
 author: HeroKince
-date: 2024-02-26 20:00:00 +0800
+date: 2024-02-25 20:00:00 +0800
 categories: [Meta]
 tags: [Meta,Facebook]
 ---

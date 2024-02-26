@@ -1,7 +1,7 @@
 ---
 title: startForegroundService() did not then call startForeground() Crash崩溃排查记录
 author: HeroKince
-date: 2024-02-26 20:00:00 +0800
+date: 2024-02-25 20:00:00 +0800
 categories: [Crash]
 tags: [Crash,Android]
 ---

@@ -1,7 +1,7 @@
 ---
 title: 一篇文章捋一下GAM
 author: HeroKince
-date: 2024-02-26 20:00:00 +0800
+date: 2024-02-25 20:00:00 +0800
 categories: [Ad]
 tags: [Ad,Google]
 ---
