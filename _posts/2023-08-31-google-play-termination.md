@@ -1,7 +1,7 @@
 ---
 title: Google Play开发者封号，原因8.3/10.3分发协议问题
 author: HeroKince
-date: 2023-08-30 20:00:00 +0800
+date: 2023-08-31 20:00:00 +0800
 categories: [Google Play]
 tags: [Google Play]
 img_path: /assets/img/googleplay/
