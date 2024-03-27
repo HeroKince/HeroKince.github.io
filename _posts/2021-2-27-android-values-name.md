@@ -1,7 +1,7 @@
 ---
 title: Android values文件夹命名规则名称汇总
 author: HeroKince
-date: 2021-02-29 21:04:00 +0800
+date: 2021-02-27 21:04:00 +0800
 categories: [Android]
 tags: [Android]
 ---
