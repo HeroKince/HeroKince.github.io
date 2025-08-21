@@ -9,11 +9,11 @@ img_path: /assets/img/googleplay/
 
 
 最新的google play开发者分发协议在2023年8月29日生效，目前大部分开发者都是新账号提审过程中被封号。可能是
-![1681050382973.png](googleplay1.png)
+![1681050382973.png](/assets/img/googleplay/googleplay1.png)
 
 让我们具体看一下谷歌发布的8.3/10.3分发协议的具体内容：
 
-![1681050382973.png](googleplay2.png)
+![1681050382973.png](/assets/img/googleplay/googleplay2.png)
 
 根据Google Play开发者分发协议，Google有权在任何时候拒绝、移除、暂停或限制任何产品或开发者在Google Play或设备中的分发，如果Google认为该产品或开发者违反了任何适用法律、本协议、适用政策或其他服务条款，或者导致Google或授权提供商需承担潜在法律责任或可能对其造成不利影响。其中，第8.3条和第10.3条是最常见的被封原因。
 

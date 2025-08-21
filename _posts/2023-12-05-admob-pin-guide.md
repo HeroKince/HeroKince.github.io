@@ -11,7 +11,7 @@ img_path: /assets/img/admob/
 
 由于Google Adsense是以国际平信的形式发的PIN码，而国际平信的性质决定了是没有电话信息的，解决办法是在地址里面加上电话号码，这样就可以通过电话联系到你了。
 
-![1681050382973.png](admob1.png)
+![1681050382973.png](/assets/img/admob/admob1.png)
 
 
 如果过了两周多没有收到PIN码，可以到就近的中国邮政网点找一找，他们一般有专门负责国际平邮的分拣员。
@@ -33,8 +33,8 @@ PIN码因为是通过传统邮件邮递，且是来自境外，所以接收成�
 
 听说有人没等到申请第四次PIN 码，使用这个链接，也通过了验证。所以也可以试试。链接地址是：https://support.google.com/adsense/contact/id_verification
 
-![v2-afc1502a3d30c295bfca5db2cc0cfb40_1440w (1).png](admob2.png)
-![v2-6b385e6490544d3593291ecf1aba1aa7_1440w (1).png](admob3.png)
+![v2-afc1502a3d30c295bfca5db2cc0cfb40_1440w (1).png](/assets/img/admob/admob2.png)
+![v2-6b385e6490544d3593291ecf1aba1aa7_1440w (1).png](/assets/img/admob/admob3.png)
 
 ### 参考文献：
 

@@ -47,7 +47,7 @@ tags: [Android,AI]
 
 `Preferences` → `Appearance & Behavior` → `System Settings` → `HTTP Proxy`
 
-![Android Studio Proxy 设置界面](proxy-settings.png)
+![Android Studio Proxy 设置界面](/assets/img/proxy-settings.png)
 
 ---
 
